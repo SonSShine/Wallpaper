@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Assigment_sonvqph24812_AndroidNetworking"
